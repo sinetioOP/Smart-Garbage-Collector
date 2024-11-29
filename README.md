@@ -41,6 +41,6 @@ As part of the Introduction to Engineering Design module in Year 1 of Singapore 
 <br>
 
 ### Contact
-- Name: Lynn Thit Khant
-- Email: lynnthit.23@ichat.sp.edu.sg
-- LinkedIn: http://linkedin.com/in/lynn927
+- Name: Khant Min San
+- Email: khantkhant.23@ichat.sp.edu.sg
+
